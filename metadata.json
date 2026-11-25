@@ -1,0 +1,6 @@
+{
+  "name": "VowSheet",
+  "description": "Google Sheets-powered wedding planner with budget tracking, guest list management, and a vendor contact sheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
